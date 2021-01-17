@@ -1,4 +1,4 @@
-char arr[][50] = {
+char arr[][52] = {
 "Gestalten",
 "Weise",
 "Wind",
@@ -48,5 +48,7 @@ char arr[][50] = {
 "Faul",
 "Sporen",
 "Vereinigt",
-"Huren"
+"Huren",
+"Kant",
+"Vista"
 };

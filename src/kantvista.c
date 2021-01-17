@@ -13,10 +13,10 @@ int main () {
 	scanf("%i", &kvi);
 	if (kvi == 1) {
 		int n = rand() % 49;
-		printf ("%sVista\n", arr[n]);
+		printf ("%svista\n", arr[n]);
 	} else if (kvi == 2) {
-		int n = rand() % 49;
-		printf ("%sKant\n", arr[n]);
+		int n = rand() % 51;
+		printf ("%skant\n", arr[n]);
 	} else {
 		printf("Nicht gültige HurenEingabe\n");
 	}
