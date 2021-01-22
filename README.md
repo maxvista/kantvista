@@ -1,6 +1,6 @@
 # kantvista
 
-#### Ein lustiges Programm das Zufällig ein Wort aussucht und je nach Nutzerwahl -Kant oder -Vista hinten ranhängt.
+#### Ein lustiges Programm das zufällig ein Wort aussucht und je nach Nutzerwahl -Kant oder -Vista hinten ranhängt.
 
 #### Zurzeit stehen über 700 Wörter zur verfügung.
 
